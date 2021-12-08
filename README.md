@@ -4,9 +4,9 @@ This branch contains an example of a basic, manually-crafted codespace which can
 actually _was_ used!) to develop a simple Python application.
 
 The important files here are
-[`devcontainer.json`](https://github.com/dassencio/codespaces-demo-python/blob/simple/.devcontainer/devcontainer.json)
+[`devcontainer.json`](https://github.com/DemoOrgGHECDaveBurnisonMS/codespaces-demo-python/blob/simple/.devcontainer/devcontainer.json)
 and
-[`Dockerfile`](https://github.com/dassencio/codespaces-demo-python/blob/simple/.devcontainer/Dockerfile),
+[`Dockerfile`](https://github.com/DemoOrgGHECDaveBurnisonMS/codespaces-demo-python/blob/simple/.devcontainer/Dockerfile),
 which together define everything we need inside our development environment:
 
 - Base operating system
